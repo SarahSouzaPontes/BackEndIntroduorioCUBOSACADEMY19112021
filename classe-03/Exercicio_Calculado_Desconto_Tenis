@@ -1,0 +1,5 @@
+let tenis = 129,99;
+let valorApagar = 80,00;
+
+let valorDoDesconto = 
+console.log(valorDoDesconto)
